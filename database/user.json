@@ -35,6 +35,15 @@
     "lastSeenAt": "2026-08-13T07:30:15.733Z",
     "startCount": 1
   },
+  "1396753786": {
+    "id": 1396753786,
+    "username": "J4rzo",
+    "first_name": "𝗭𝗛𝗔𝗛𝗘𝗥 𝗢𝗙𝗙𝗜𝗖𝗜𝗔𝗟",
+    "last_name": null,
+    "joinedAt": "2026-08-16T11:23:36.920Z",
+    "lastSeenAt": "2026-08-16T11:23:36.920Z",
+    "startCount": 1
+  },
   "1428891633": {
     "id": 1428891633,
     "username": null,
@@ -348,6 +357,33 @@
     "last_name": null,
     "joinedAt": "2026-08-15T09:56:20.845Z",
     "lastSeenAt": "2026-08-15T09:56:20.845Z",
+    "startCount": 1
+  },
+  "8525151939": {
+    "id": 8525151939,
+    "username": "dannnotdev",
+    "first_name": "𝐗𝟒 dann",
+    "last_name": null,
+    "joinedAt": "2026-08-16T11:23:30.625Z",
+    "lastSeenAt": "2026-08-16T11:23:31.198Z",
+    "startCount": 2
+  },
+  "6624357409": {
+    "id": 6624357409,
+    "username": "Elarionc",
+    "first_name": "🃟𝙻𝚢𝚢𝚗𝚊𝚕𝚎𝚢 𝓛𝓸𝓸𝓴𝓲𝓼𝓶",
+    "last_name": null,
+    "joinedAt": "2026-08-16T11:23:31.205Z",
+    "lastSeenAt": "2026-08-16T11:23:31.205Z",
+    "startCount": 1
+  },
+  "8698012334": {
+    "id": 8698012334,
+    "username": "Emakloewee",
+    "first_name": "𝐘𝐮𝐳𝐢",
+    "last_name": "𝐓𝟓",
+    "joinedAt": "2026-08-16T11:23:35.700Z",
+    "lastSeenAt": "2026-08-16T11:23:35.700Z",
     "startCount": 1
   }
 }
